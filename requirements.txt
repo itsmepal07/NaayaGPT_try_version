@@ -4,3 +4,8 @@ sentence-transformers
 openai
 groq 
 python-dotenv
+SpeechRecognition 
+pyttsx3  
+pyaudio
+sounddevice
+json5
