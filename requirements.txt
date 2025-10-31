@@ -9,3 +9,5 @@ pyttsx3
 pyaudio
 sounddevice
 json5
+fastapi
+uvicorn[standard]
